@@ -1,1 +1,7 @@
-
+Total number of documents is 7945
+Total Number of terms is 2379444
+Average terms per document is 299.48949024543737
+Min token size (characters) is 1
+Min token byte size (bytes) is 26
+Max token size (characters) is 86
+Max token byte size (bytes) is 111
