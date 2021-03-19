@@ -15,6 +15,8 @@ Output of the token analysis program:
 1. Download this indexing package (tokenAnalysis) from GitHub (easy as a zip file). Save and unzip it in a preferred directory in your machine (e.g "C:\Test\tokenAnalysis")
 Note: An example dataset is available in the package as "ExampleDataset.zip" for use.
 2. Install Python 3.8.0 or above from https://www.python.org/downloads/.
+3. Install Natural Language Toolkit from https://www.nltk.org/
+Note: A reference tutorial of NLTK can be found in this YouTube video. https://www.youtube.com/watch?v=FLZvOKSCkxY
 
 
 ==========HOW TO RUN THE PROGRAM=============
