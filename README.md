@@ -1,6 +1,6 @@
 # tokenAnalysis
 This python program (tokenAnalysis) analyses tokens from text files in a given dataset.
-
+AUTHOR: Bilal Ansari @ Ye Thi Ha
 ==========DESCRIPTION=============
 
 This python program (tokenAnalysis) analyses tokens from text files in a given dataset.
